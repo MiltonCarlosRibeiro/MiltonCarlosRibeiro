@@ -8,14 +8,7 @@
 
 ---
 
-### 🌐 **Connect With Me**
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/milton-carlos-ribeiro-62635959/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-  
-</p>
 
 <!-- Random Dev Quote -->
 <div align="center">
